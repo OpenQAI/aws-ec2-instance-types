@@ -1,0 +1,388 @@
+{
+  "kind": "aws:ec2:spot:type",
+  "region": "eu-west-3",
+  "count": 127,
+  "items": [
+    {
+      "instanceType": "d2.8xlarge"
+    },
+    {
+      "instanceType": "x1.16xlarge"
+    },
+    {
+      "instanceType": "r5a.large"
+    },
+    {
+      "instanceType": "i3.xlarge"
+    },
+    {
+      "instanceType": "r5.large"
+    },
+    {
+      "instanceType": "t3a.medium"
+    },
+    {
+      "instanceType": "m5.large"
+    },
+    {
+      "instanceType": "m5.4xlarge"
+    },
+    {
+      "instanceType": "r5a.12xlarge"
+    },
+    {
+      "instanceType": "d2.4xlarge"
+    },
+    {
+      "instanceType": "r4.4xlarge"
+    },
+    {
+      "instanceType": "i3.2xlarge"
+    },
+    {
+      "instanceType": "c5.metal"
+    },
+    {
+      "instanceType": "c5.large"
+    },
+    {
+      "instanceType": "t3.xlarge"
+    },
+    {
+      "instanceType": "t3.medium"
+    },
+    {
+      "instanceType": "i3.8xlarge"
+    },
+    {
+      "instanceType": "m5a.xlarge"
+    },
+    {
+      "instanceType": "t2.micro"
+    },
+    {
+      "instanceType": "r5d.12xlarge"
+    },
+    {
+      "instanceType": "m5.xlarge"
+    },
+    {
+      "instanceType": "r5.2xlarge"
+    },
+    {
+      "instanceType": "t2.medium"
+    },
+    {
+      "instanceType": "r5.24xlarge"
+    },
+    {
+      "instanceType": "r5.12xlarge"
+    },
+    {
+      "instanceType": "r5d.large"
+    },
+    {
+      "instanceType": "c5.18xlarge"
+    },
+    {
+      "instanceType": "m5a.2xlarge"
+    },
+    {
+      "instanceType": "r5d.16xlarge"
+    },
+    {
+      "instanceType": "t3a.xlarge"
+    },
+    {
+      "instanceType": "r5a.16xlarge"
+    },
+    {
+      "instanceType": "t2.small"
+    },
+    {
+      "instanceType": "t3a.micro"
+    },
+    {
+      "instanceType": "r5d.4xlarge"
+    },
+    {
+      "instanceType": "t3.2xlarge"
+    },
+    {
+      "instanceType": "c5.2xlarge"
+    },
+    {
+      "instanceType": "m5d.16xlarge"
+    },
+    {
+      "instanceType": "c5.9xlarge"
+    },
+    {
+      "instanceType": "m5d.large"
+    },
+    {
+      "instanceType": "r5.4xlarge"
+    },
+    {
+      "instanceType": "r5.8xlarge"
+    },
+    {
+      "instanceType": "c5.24xlarge"
+    },
+    {
+      "instanceType": "r5.16xlarge"
+    },
+    {
+      "instanceType": "m5d.xlarge"
+    },
+    {
+      "instanceType": "m5.2xlarge"
+    },
+    {
+      "instanceType": "m5.8xlarge"
+    },
+    {
+      "instanceType": "m5.24xlarge"
+    },
+    {
+      "instanceType": "r5d.metal"
+    },
+    {
+      "instanceType": "r5d.xlarge"
+    },
+    {
+      "instanceType": "t3.micro"
+    },
+    {
+      "instanceType": "r5a.2xlarge"
+    },
+    {
+      "instanceType": "c5.4xlarge"
+    },
+    {
+      "instanceType": "r4.8xlarge"
+    },
+    {
+      "instanceType": "c5d.9xlarge"
+    },
+    {
+      "instanceType": "m5d.12xlarge"
+    },
+    {
+      "instanceType": "m5a.16xlarge"
+    },
+    {
+      "instanceType": "t2.2xlarge"
+    },
+    {
+      "instanceType": "r5.xlarge"
+    },
+    {
+      "instanceType": "r4.large"
+    },
+    {
+      "instanceType": "r5d.8xlarge"
+    },
+    {
+      "instanceType": "r5a.24xlarge"
+    },
+    {
+      "instanceType": "r5d.24xlarge"
+    },
+    {
+      "instanceType": "c5d.18xlarge"
+    },
+    {
+      "instanceType": "t3.large"
+    },
+    {
+      "instanceType": "m5.12xlarge"
+    },
+    {
+      "instanceType": "r5d.2xlarge"
+    },
+    {
+      "instanceType": "t2.large"
+    },
+    {
+      "instanceType": "c5d.4xlarge"
+    },
+    {
+      "instanceType": "m5a.large"
+    },
+    {
+      "instanceType": "m5d.4xlarge"
+    },
+    {
+      "instanceType": "m5d.2xlarge"
+    },
+    {
+      "instanceType": "r5a.xlarge"
+    },
+    {
+      "instanceType": "r4.16xlarge"
+    },
+    {
+      "instanceType": "m5a.8xlarge"
+    },
+    {
+      "instanceType": "m5.16xlarge"
+    },
+    {
+      "instanceType": "t3.nano"
+    },
+    {
+      "instanceType": "t3a.2xlarge"
+    },
+    {
+      "instanceType": "i3.16xlarge"
+    },
+    {
+      "instanceType": "x1.32xlarge"
+    },
+    {
+      "instanceType": "c5.12xlarge"
+    },
+    {
+      "instanceType": "d2.2xlarge"
+    },
+    {
+      "instanceType": "i3.4xlarge"
+    },
+    {
+      "instanceType": "r4.2xlarge"
+    },
+    {
+      "instanceType": "r5.metal"
+    },
+    {
+      "instanceType": "t3.small"
+    },
+    {
+      "instanceType": "r4.xlarge"
+    },
+    {
+      "instanceType": "m5d.8xlarge"
+    },
+    {
+      "instanceType": "i3.large"
+    },
+    {
+      "instanceType": "m5a.4xlarge"
+    },
+    {
+      "instanceType": "c5.xlarge"
+    },
+    {
+      "instanceType": "c5d.large"
+    },
+    {
+      "instanceType": "c5d.2xlarge"
+    },
+    {
+      "instanceType": "c5d.xlarge"
+    },
+    {
+      "instanceType": "d2.xlarge"
+    },
+    {
+      "instanceType": "t2.xlarge"
+    },
+    {
+      "instanceType": "t3a.large"
+    },
+    {
+      "instanceType": "r5a.8xlarge"
+    },
+    {
+      "instanceType": "t3a.nano"
+    },
+    {
+      "instanceType": "r5a.4xlarge"
+    },
+    {
+      "instanceType": "t3a.small"
+    },
+    {
+      "instanceType": "m5d.24xlarge"
+    },
+    {
+      "instanceType": "m5a.12xlarge"
+    },
+    {
+      "instanceType": "m5a.24xlarge"
+    },
+    {
+      "instanceType": "m5.metal"
+    },
+    {
+      "instanceType": "m5d.metal"
+    },
+    {
+      "instanceType": "g4dn.12xlarge"
+    },
+    {
+      "instanceType": "g4dn.16xlarge"
+    },
+    {
+      "instanceType": "g4dn.2xlarge"
+    },
+    {
+      "instanceType": "g4dn.4xlarge"
+    },
+    {
+      "instanceType": "g4dn.8xlarge"
+    },
+    {
+      "instanceType": "g4dn.xlarge"
+    },
+    {
+      "instanceType": "m5ad.12xlarge"
+    },
+    {
+      "instanceType": "m5ad.16xlarge"
+    },
+    {
+      "instanceType": "m5ad.24xlarge"
+    },
+    {
+      "instanceType": "m5ad.2xlarge"
+    },
+    {
+      "instanceType": "m5ad.4xlarge"
+    },
+    {
+      "instanceType": "m5ad.8xlarge"
+    },
+    {
+      "instanceType": "m5ad.large"
+    },
+    {
+      "instanceType": "m5ad.xlarge"
+    },
+    {
+      "instanceType": "r5ad.12xlarge"
+    },
+    {
+      "instanceType": "r5ad.16xlarge"
+    },
+    {
+      "instanceType": "r5ad.24xlarge"
+    },
+    {
+      "instanceType": "r5ad.2xlarge"
+    },
+    {
+      "instanceType": "r5ad.4xlarge"
+    },
+    {
+      "instanceType": "r5ad.8xlarge"
+    },
+    {
+      "instanceType": "r5ad.large"
+    },
+    {
+      "instanceType": "r5ad.xlarge"
+    }
+  ]
+}
