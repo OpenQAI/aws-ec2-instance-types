@@ -1,7 +1,7 @@
 {
   "kind": "aws:ec2:spot:type",
   "region": "us-east-1",
-  "count": "291",
+  "count": 291,
   "items": [
     {
       "instanceType": "hi1.4xlarge"
