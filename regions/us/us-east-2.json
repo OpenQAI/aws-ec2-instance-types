@@ -1,0 +1,793 @@
+{
+  "kind": "aws:ec2:spot:type",
+  "region": "us-east-2",
+  "count": 262,
+  "items": [
+    {
+      "instanceType": "c5d.4xlarge"
+    },
+    {
+      "instanceType": "m5a.4xlarge"
+    },
+    {
+      "instanceType": "m5ad.large"
+    },
+    {
+      "instanceType": "c5n.2xlarge"
+    },
+    {
+      "instanceType": "m5.large"
+    },
+    {
+      "instanceType": "r5ad.2xlarge"
+    },
+    {
+      "instanceType": "r5a.16xlarge"
+    },
+    {
+      "instanceType": "m5.16xlarge"
+    },
+    {
+      "instanceType": "r3.8xlarge"
+    },
+    {
+      "instanceType": "r3.4xlarge"
+    },
+    {
+      "instanceType": "t2.xlarge"
+    },
+    {
+      "instanceType": "c5n.18xlarge"
+    },
+    {
+      "instanceType": "x1e.16xlarge"
+    },
+    {
+      "instanceType": "m5a.2xlarge"
+    },
+    {
+      "instanceType": "t2.micro"
+    },
+    {
+      "instanceType": "r5a.large"
+    },
+    {
+      "instanceType": "i3.xlarge"
+    },
+    {
+      "instanceType": "m5d.xlarge"
+    },
+    {
+      "instanceType": "x1e.8xlarge"
+    },
+    {
+      "instanceType": "r5.xlarge"
+    },
+    {
+      "instanceType": "m5a.24xlarge"
+    },
+    {
+      "instanceType": "i3en.3xlarge"
+    },
+    {
+      "instanceType": "i3.16xlarge"
+    },
+    {
+      "instanceType": "h1.8xlarge"
+    },
+    {
+      "instanceType": "r5d.4xlarge"
+    },
+    {
+      "instanceType": "i3en.2xlarge"
+    },
+    {
+      "instanceType": "r5.12xlarge"
+    },
+    {
+      "instanceType": "c5n.large"
+    },
+    {
+      "instanceType": "m5ad.2xlarge"
+    },
+    {
+      "instanceType": "t3a.small"
+    },
+    {
+      "instanceType": "a1.4xlarge"
+    },
+    {
+      "instanceType": "r5d.8xlarge"
+    },
+    {
+      "instanceType": "r5.2xlarge"
+    },
+    {
+      "instanceType": "x1e.xlarge"
+    },
+    {
+      "instanceType": "m5.12xlarge"
+    },
+    {
+      "instanceType": "i2.2xlarge"
+    },
+    {
+      "instanceType": "c4.2xlarge"
+    },
+    {
+      "instanceType": "r5d.16xlarge"
+    },
+    {
+      "instanceType": "m5ad.24xlarge"
+    },
+    {
+      "instanceType": "t2.small"
+    },
+    {
+      "instanceType": "m4.16xlarge"
+    },
+    {
+      "instanceType": "m4.xlarge"
+    },
+    {
+      "instanceType": "m5d.24xlarge"
+    },
+    {
+      "instanceType": "g3.16xlarge"
+    },
+    {
+      "instanceType": "t3.medium"
+    },
+    {
+      "instanceType": "r4.16xlarge"
+    },
+    {
+      "instanceType": "t3.2xlarge"
+    },
+    {
+      "instanceType": "d2.xlarge"
+    },
+    {
+      "instanceType": "d2.4xlarge"
+    },
+    {
+      "instanceType": "i3.4xlarge"
+    },
+    {
+      "instanceType": "m5ad.4xlarge"
+    },
+    {
+      "instanceType": "r5.16xlarge"
+    },
+    {
+      "instanceType": "m5d.large"
+    },
+    {
+      "instanceType": "p3.16xlarge"
+    },
+    {
+      "instanceType": "a1.medium"
+    },
+    {
+      "instanceType": "c5d.9xlarge"
+    },
+    {
+      "instanceType": "r3.xlarge"
+    },
+    {
+      "instanceType": "c4.8xlarge"
+    },
+    {
+      "instanceType": "x1.32xlarge"
+    },
+    {
+      "instanceType": "r4.4xlarge"
+    },
+    {
+      "instanceType": "x1.16xlarge"
+    },
+    {
+      "instanceType": "p2.16xlarge"
+    },
+    {
+      "instanceType": "g3.8xlarge"
+    },
+    {
+      "instanceType": "c5.9xlarge"
+    },
+    {
+      "instanceType": "m5.24xlarge"
+    },
+    {
+      "instanceType": "r5.4xlarge"
+    },
+    {
+      "instanceType": "m5a.xlarge"
+    },
+    {
+      "instanceType": "p3.8xlarge"
+    },
+    {
+      "instanceType": "i2.xlarge"
+    },
+    {
+      "instanceType": "m4.4xlarge"
+    },
+    {
+      "instanceType": "d2.2xlarge"
+    },
+    {
+      "instanceType": "h1.4xlarge"
+    },
+    {
+      "instanceType": "t3a.medium"
+    },
+    {
+      "instanceType": "i3en.large"
+    },
+    {
+      "instanceType": "r3.large"
+    },
+    {
+      "instanceType": "r5a.24xlarge"
+    },
+    {
+      "instanceType": "t3.xlarge"
+    },
+    {
+      "instanceType": "c5.2xlarge"
+    },
+    {
+      "instanceType": "x1e.32xlarge"
+    },
+    {
+      "instanceType": "c5d.xlarge"
+    },
+    {
+      "instanceType": "i2.8xlarge"
+    },
+    {
+      "instanceType": "r5ad.large"
+    },
+    {
+      "instanceType": "c5.large"
+    },
+    {
+      "instanceType": "r5ad.4xlarge"
+    },
+    {
+      "instanceType": "g3s.xlarge"
+    },
+    {
+      "instanceType": "p2.8xlarge"
+    },
+    {
+      "instanceType": "m5d.2xlarge"
+    },
+    {
+      "instanceType": "i3en.24xlarge"
+    },
+    {
+      "instanceType": "c5n.xlarge"
+    },
+    {
+      "instanceType": "m5d.12xlarge"
+    },
+    {
+      "instanceType": "r5a.8xlarge"
+    },
+    {
+      "instanceType": "m5ad.12xlarge"
+    },
+    {
+      "instanceType": "t3a.large"
+    },
+    {
+      "instanceType": "x1e.4xlarge"
+    },
+    {
+      "instanceType": "i3en.xlarge"
+    },
+    {
+      "instanceType": "c5n.9xlarge"
+    },
+    {
+      "instanceType": "i3.2xlarge"
+    },
+    {
+      "instanceType": "r4.xlarge"
+    },
+    {
+      "instanceType": "m4.2xlarge"
+    },
+    {
+      "instanceType": "r3.2xlarge"
+    },
+    {
+      "instanceType": "m5ad.xlarge"
+    },
+    {
+      "instanceType": "p3.2xlarge"
+    },
+    {
+      "instanceType": "i3.large"
+    },
+    {
+      "instanceType": "d2.8xlarge"
+    },
+    {
+      "instanceType": "a1.2xlarge"
+    },
+    {
+      "instanceType": "r4.large"
+    },
+    {
+      "instanceType": "c4.xlarge"
+    },
+    {
+      "instanceType": "r5ad.xlarge"
+    },
+    {
+      "instanceType": "r5.large"
+    },
+    {
+      "instanceType": "a1.xlarge"
+    },
+    {
+      "instanceType": "r5ad.24xlarge"
+    },
+    {
+      "instanceType": "t2.2xlarge"
+    },
+    {
+      "instanceType": "t2.large"
+    },
+    {
+      "instanceType": "m5a.16xlarge"
+    },
+    {
+      "instanceType": "r5.metal"
+    },
+    {
+      "instanceType": "m5a.12xlarge"
+    },
+    {
+      "instanceType": "m4.large"
+    },
+    {
+      "instanceType": "c4.4xlarge"
+    },
+    {
+      "instanceType": "r5.24xlarge"
+    },
+    {
+      "instanceType": "m5.4xlarge"
+    },
+    {
+      "instanceType": "i3.metal"
+    },
+    {
+      "instanceType": "i2.4xlarge"
+    },
+    {
+      "instanceType": "t3.large"
+    },
+    {
+      "instanceType": "a1.large"
+    },
+    {
+      "instanceType": "i3.8xlarge"
+    },
+    {
+      "instanceType": "r5a.xlarge"
+    },
+    {
+      "instanceType": "p2.xlarge"
+    },
+    {
+      "instanceType": "r5ad.12xlarge"
+    },
+    {
+      "instanceType": "g3.4xlarge"
+    },
+    {
+      "instanceType": "r5d.24xlarge"
+    },
+    {
+      "instanceType": "c5d.18xlarge"
+    },
+    {
+      "instanceType": "r5d.large"
+    },
+    {
+      "instanceType": "m5.8xlarge"
+    },
+    {
+      "instanceType": "h1.16xlarge"
+    },
+    {
+      "instanceType": "m4.10xlarge"
+    },
+    {
+      "instanceType": "t2.medium"
+    },
+    {
+      "instanceType": "c5.4xlarge"
+    },
+    {
+      "instanceType": "r5a.2xlarge"
+    },
+    {
+      "instanceType": "m5.2xlarge"
+    },
+    {
+      "instanceType": "c5.xlarge"
+    },
+    {
+      "instanceType": "r5d.metal"
+    },
+    {
+      "instanceType": "t3a.xlarge"
+    },
+    {
+      "instanceType": "m5a.large"
+    },
+    {
+      "instanceType": "r5d.xlarge"
+    },
+    {
+      "instanceType": "m5d.16xlarge"
+    },
+    {
+      "instanceType": "r5d.2xlarge"
+    },
+    {
+      "instanceType": "r5a.4xlarge"
+    },
+    {
+      "instanceType": "t3a.2xlarge"
+    },
+    {
+      "instanceType": "x1e.2xlarge"
+    },
+    {
+      "instanceType": "i3en.12xlarge"
+    },
+    {
+      "instanceType": "r4.2xlarge"
+    },
+    {
+      "instanceType": "c5.18xlarge"
+    },
+    {
+      "instanceType": "m5d.4xlarge"
+    },
+    {
+      "instanceType": "m5.xlarge"
+    },
+    {
+      "instanceType": "r5d.12xlarge"
+    },
+    {
+      "instanceType": "t3a.micro"
+    },
+    {
+      "instanceType": "r4.8xlarge"
+    },
+    {
+      "instanceType": "i3en.6xlarge"
+    },
+    {
+      "instanceType": "c5n.4xlarge"
+    },
+    {
+      "instanceType": "t3.nano"
+    },
+    {
+      "instanceType": "t3.small"
+    },
+    {
+      "instanceType": "t3a.nano"
+    },
+    {
+      "instanceType": "r5.8xlarge"
+    },
+    {
+      "instanceType": "r5a.12xlarge"
+    },
+    {
+      "instanceType": "c5d.large"
+    },
+    {
+      "instanceType": "h1.2xlarge"
+    },
+    {
+      "instanceType": "t3.micro"
+    },
+    {
+      "instanceType": "m5d.8xlarge"
+    },
+    {
+      "instanceType": "m5a.8xlarge"
+    },
+    {
+      "instanceType": "c5d.2xlarge"
+    },
+    {
+      "instanceType": "c4.large"
+    },
+    {
+      "instanceType": "m5.metal"
+    },
+    {
+      "instanceType": "m5d.metal"
+    },
+    {
+      "instanceType": "g4dn.12xlarge"
+    },
+    {
+      "instanceType": "g4dn.16xlarge"
+    },
+    {
+      "instanceType": "g4dn.2xlarge"
+    },
+    {
+      "instanceType": "g4dn.4xlarge"
+    },
+    {
+      "instanceType": "g4dn.8xlarge"
+    },
+    {
+      "instanceType": "g4dn.xlarge"
+    },
+    {
+      "instanceType": "a1.metal"
+    },
+    {
+      "instanceType": "c5.12xlarge"
+    },
+    {
+      "instanceType": "c5.24xlarge"
+    },
+    {
+      "instanceType": "c5.metal"
+    },
+    {
+      "instanceType": "c5d.12xlarge"
+    },
+    {
+      "instanceType": "c5d.24xlarge"
+    },
+    {
+      "instanceType": "c5d.metal"
+    },
+    {
+      "instanceType": "c5n.metal"
+    },
+    {
+      "instanceType": "i3en.metal"
+    },
+    {
+      "instanceType": "m5dn.12xlarge"
+    },
+    {
+      "instanceType": "m5dn.16xlarge"
+    },
+    {
+      "instanceType": "m5dn.24xlarge"
+    },
+    {
+      "instanceType": "m5dn.2xlarge"
+    },
+    {
+      "instanceType": "m5dn.4xlarge"
+    },
+    {
+      "instanceType": "m5dn.8xlarge"
+    },
+    {
+      "instanceType": "m5dn.large"
+    },
+    {
+      "instanceType": "m5dn.xlarge"
+    },
+    {
+      "instanceType": "m5n.12xlarge"
+    },
+    {
+      "instanceType": "m5n.16xlarge"
+    },
+    {
+      "instanceType": "m5n.24xlarge"
+    },
+    {
+      "instanceType": "m5n.2xlarge"
+    },
+    {
+      "instanceType": "m5n.4xlarge"
+    },
+    {
+      "instanceType": "m5n.8xlarge"
+    },
+    {
+      "instanceType": "m5n.large"
+    },
+    {
+      "instanceType": "m5n.xlarge"
+    },
+    {
+      "instanceType": "r5dn.12xlarge"
+    },
+    {
+      "instanceType": "r5dn.16xlarge"
+    },
+    {
+      "instanceType": "r5dn.24xlarge"
+    },
+    {
+      "instanceType": "r5dn.2xlarge"
+    },
+    {
+      "instanceType": "r5dn.4xlarge"
+    },
+    {
+      "instanceType": "r5dn.8xlarge"
+    },
+    {
+      "instanceType": "r5dn.large"
+    },
+    {
+      "instanceType": "r5dn.xlarge"
+    },
+    {
+      "instanceType": "r5n.12xlarge"
+    },
+    {
+      "instanceType": "r5n.16xlarge"
+    },
+    {
+      "instanceType": "r5n.24xlarge"
+    },
+    {
+      "instanceType": "r5n.2xlarge"
+    },
+    {
+      "instanceType": "r5n.4xlarge"
+    },
+    {
+      "instanceType": "r5n.8xlarge"
+    },
+    {
+      "instanceType": "r5n.large"
+    },
+    {
+      "instanceType": "r5n.xlarge"
+    },
+    {
+      "instanceType": "z1d.12xlarge"
+    },
+    {
+      "instanceType": "z1d.2xlarge"
+    },
+    {
+      "instanceType": "z1d.3xlarge"
+    },
+    {
+      "instanceType": "z1d.6xlarge"
+    },
+    {
+      "instanceType": "z1d.large"
+    },
+    {
+      "instanceType": "z1d.metal"
+    },
+    {
+      "instanceType": "z1d.xlarge"
+    },
+    {
+      "instanceType": "c5a.12xlarge"
+    },
+    {
+      "instanceType": "c5a.16xlarge"
+    },
+    {
+      "instanceType": "c5a.24xlarge"
+    },
+    {
+      "instanceType": "c5a.2xlarge"
+    },
+    {
+      "instanceType": "c5a.4xlarge"
+    },
+    {
+      "instanceType": "c5a.8xlarge"
+    },
+    {
+      "instanceType": "c5a.large"
+    },
+    {
+      "instanceType": "c5a.xlarge"
+    },
+    {
+      "instanceType": "c6g.12xlarge"
+    },
+    {
+      "instanceType": "c6g.16xlarge"
+    },
+    {
+      "instanceType": "c6g.2xlarge"
+    },
+    {
+      "instanceType": "c6g.4xlarge"
+    },
+    {
+      "instanceType": "c6g.8xlarge"
+    },
+    {
+      "instanceType": "c6g.large"
+    },
+    {
+      "instanceType": "c6g.medium"
+    },
+    {
+      "instanceType": "c6g.metal"
+    },
+    {
+      "instanceType": "c6g.xlarge"
+    },
+    {
+      "instanceType": "m6g.12xlarge"
+    },
+    {
+      "instanceType": "m6g.16xlarge"
+    },
+    {
+      "instanceType": "m6g.2xlarge"
+    },
+    {
+      "instanceType": "m6g.4xlarge"
+    },
+    {
+      "instanceType": "m6g.8xlarge"
+    },
+    {
+      "instanceType": "m6g.large"
+    },
+    {
+      "instanceType": "m6g.medium"
+    },
+    {
+      "instanceType": "m6g.metal"
+    },
+    {
+      "instanceType": "m6g.xlarge"
+    },
+    {
+      "instanceType": "r6g.12xlarge"
+    },
+    {
+      "instanceType": "r6g.16xlarge"
+    },
+    {
+      "instanceType": "r6g.2xlarge"
+    },
+    {
+      "instanceType": "r6g.4xlarge"
+    },
+    {
+      "instanceType": "r6g.8xlarge"
+    },
+    {
+      "instanceType": "r6g.large"
+    },
+    {
+      "instanceType": "r6g.medium"
+    },
+    {
+      "instanceType": "r6g.metal"
+    },
+    {
+      "instanceType": "r6g.xlarge"
+    }
+  ]
+}
